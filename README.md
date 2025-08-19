@@ -16,13 +16,11 @@ End the program
 
 ## Program:
 
+```
 Program to find the solution for the given linear equations.
-
 Developed by: A Ahil Santo
-
 RegisterNumber: 212224040018
 
-```
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 sol=np.linalg.matrix_rank(A)
@@ -31,7 +29,7 @@ print(sol)
 
 ## Output:
 
-<img width="532" height="316" alt="image" src="https://github.com/user-attachments/assets/8b8063b4-6b11-4734-88a5-dff588dcdb0c" />
+<img width="1232" height="797" alt="image" src="https://github.com/user-attachments/assets/3c504885-020f-4e64-b118-de00b6ac0e2c" />
 
 
 ## Result:
